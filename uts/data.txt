@@ -1,1 +1,7 @@
-
+Nama Wilayah :DKI Jakarta
+Jumlah Positif :406.205
+Jumlah Dirawat :3.322
+Jumlah Sembuh :393.205
+Jumlah Meninggal :6.679
+Nama Operator :Aji Dwiyatna
+NIM Mahasiswa :171011401048
